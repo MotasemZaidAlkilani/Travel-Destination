@@ -7,4 +7,5 @@ return (
     </>
 )
 }
+
 export default Footer;
