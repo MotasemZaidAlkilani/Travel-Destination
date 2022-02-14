@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+.footer{
+    display:flex;
+    background-color: aliceblue;
+    align-items: center;
+    justify-content: space-between;
+}

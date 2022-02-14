@@ -1,10 +1,16 @@
+import "./Footer.css";
 function Footer(){
 return (
     <>
-  <a href="#">facebook</a>  
-  <a href="#">Linkdin</a> 
-  <p>author :Motasem alkilani</p> 
+    
+  <div className="footer"> 
+     <a href="#">facebook</a>  
+     <p>author :Motasem alkilani</p> 
+    <a href="#">Linkdin</a> 
+  
+  </div>
+ 
     </>
-)
+);
 }
 export default Footer;
